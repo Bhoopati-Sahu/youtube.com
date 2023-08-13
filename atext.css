@@ -1,0 +1,106 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+.ti-tle{
+    font-weight:bold;
+    margin-bottom: 5px;
+    font-size: xx-large;
+}
+.ext-ra{
+    color: grey;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.des-c{
+  
+    line-height: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.butt-on{
+    background-color: green;
+    border-radius: 4px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    ;
+    margin-left: 500px;
+}
+.tag-line{
+   text-align: center;
+   font-size: larger;
+   font-weight: bold;
+   margin-top: 450;
+}
+.que-s{
+    text-align: center;
+}
+.lea-rn{
+    color: blue;
+    text-align: center;
+    
+}
+.lea-rn:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.kha-char{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 9px;
+    
+}
+.b-uy{
+   
+    font-weight: bold;
+    background-color: #1da1f2;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: #1da1f2;
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    cursor: pointer;
+    margin-bottom: 450px;
+   
+}
+.sup-er{
+ 
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 9px;
+}
+.n-ew{text-align: center;
+    color: #ebc640;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mac-book{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 9px;
+}
+.img-bg{
+    width: 544px;
+    height: 256px;
+    background-size: 544px 256px;
+    background-repeat: no-repeat;
+    background-image: url(https://www.apple.com/v/macbook-pro/ah/images/overview/hero_14_16__bux8byft94oi_large.jpg);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sea-rch{
+    margin-left: auto;
+    margin-right: auto;
+}
